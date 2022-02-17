@@ -1,13 +1,13 @@
 ![Algoritme](algoritme.png)
-# Teste prático - Desenvolvedor Frontend
+# Teste prático - Dev Frontend
 ***
 Este repositório foi criado com o intuito de disponibilizar os pré-requisios e o teste prático para se tornar um 
-desenvolvedor frontend na Algoritme.
+dev frontend na Algoritme.
 ## Introdução
 Você deverá desenvolver uma aplicação onde o usuário possa gerenciar uma lista de correntistas para 
 prospecção de futuros negócios.
 ## Requisitos Técnicos
-- Para Desenvolver esta aplicação, o candidato estará livre para escolher a linguagem de programação, layout, cores, 
+- Para desenvolver esta aplicação, o candidato estará livre para escolher a linguagem de programação, layout, cores, 
   etc.
 - Utilizar um projeto público no GitHub para versionamento de código.
 - Utilizar *Firebase ou algum backend* para realizar login/cadastro, inserção/listagem.
